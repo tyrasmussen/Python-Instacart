@@ -6,7 +6,7 @@
 #### - orders
 #### - products
 #### - departments
-#### The following has the data dictionary for the datase: https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
+#### This [link](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b) has the data dictionary for the dataset.
 ## Tools
 #### Throughout this project, the following libraries were used in Jupyter scripts:
 #### - pandas
